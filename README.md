@@ -26,7 +26,7 @@ The analysis covers:
 - How are discounts distributed across sub-categories?
 - Which areas may require further investigation from a business perspective?
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Excel** — Data preparation and analysis
 - **SQL / MySQL** — Data querying and database practice
@@ -34,7 +34,7 @@ The analysis covers:
 - **Tableau** — Interactive visualizations and dashboards
 - **Alteryx** — Data preparation workflow
 
-## 📊 Analysis & Visualizations
+##  Analysis & Visualizations
 
 ### Sales & Profitability
 
